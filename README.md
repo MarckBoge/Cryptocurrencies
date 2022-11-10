@@ -43,7 +43,7 @@ We started out with a dataset that contained 1,252 cryptocurrencies. We then red
 
 
 
-## Scatter plot of tradeable Crypto"
+## Scatter plot of tradeable Crypto
 
 <img width="708" alt="Scatter plot of tradeable Crypto" src="https://user-images.githubusercontent.com/90155651/200984501-5d3912cf-e234-4b0a-a28c-d0440d449ce6.png">
 
