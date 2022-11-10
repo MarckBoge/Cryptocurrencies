@@ -24,7 +24,7 @@ In this analysis we learned and applied:
 
 ## Results
 
-We started out with a dataset that contained 1,252 cryptocurrencies. We then reduced it to 1,144 by only using actively traded currencies. Through data munging we removed usless columns and Null Values, also only leaving currencies that had a total number of mined coins greater than 0. Ending with 532 coins to analyze. 
+We started out with a dataset that contained 1,252 cryptocurrencies. We then reduced it to 1,144 by only using actively traded currencies. Through data munging we removed useless columns and Null Values, also only leaving currencies that had a total number of mined coins greater than 0. Ending with 532 coins to analyze. 
 
 ## 3D-Scatter
 
